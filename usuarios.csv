@@ -1,6 +1,6 @@
-id,nombre,ciudad
-100,Fernando,Bogota
-101,Victoria,Medellin
-102,Santiago,Bogota
-103,Dayana,Cali
-104,Lia,Bogota
+  id,nombre,ciudad
+  100,Fernando,Bogota
+  101,Victoria,Medellin
+  102,Santiago,Bogota
+  103,Dayana,Cali
+  104,Lia,Bogota
